@@ -14,5 +14,5 @@ variable "key_name" {
 
 variable "key_path" {
     type = string
-    default = "C:\Users\Intel\Desktop\Terraform"
+    default = "C:\\Users\\Intel\\Desktop\\Terraform"
 }
